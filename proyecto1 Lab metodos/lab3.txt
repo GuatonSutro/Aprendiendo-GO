@@ -1,0 +1,18 @@
+10 2 2 2
+xxxxpxbwex
+xxxaaaaxxx
+xxxaaaaxxx
+xaaaaaaxxx
+xaaaaaaaax
+aaaaaaaaax
+aaaaaaaaaa
+xxxxxxxxxx
+xxxxxxxxxx
+xxxxixwxxx
+
+02.01 00.04
+08.09 03.03
+01.00 cofre1
+05.00 cofre2
+00.06 50
+04.05 100
